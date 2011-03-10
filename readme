@@ -1,3 +1,8 @@
+// initial fork...
+// going to to see how this compares with my xAuth methods..
+// if only twitter enabled xAuth by default!
+// grr...etc...
+
 Ti.include('lib/oauth_adapter.js');
 var oAuthAdapter = new OAuthAdapter(
 'YOUR CONSUMER SECRET',
