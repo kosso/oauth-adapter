@@ -2,7 +2,13 @@
 // This does not scrape out the PIN. It get the verifier token from the failed callback in the webView.
 // We register http://127.0.0.21 as the callback URL for a browser-based OAuth client instead.
 
+// this is unfinished and messy at the moment. 
 
+
+// I'll be changing it to use App.Properties rather than write a text file.config too.. 
+
+
+// /me shakes fist at Twitter..!!! grrrrr....!!!
 
 Ti.include('sha1.js');
 Ti.include('oauth.js');
